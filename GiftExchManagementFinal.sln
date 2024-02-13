@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftExchManagement", "GiftExchManagement\GiftExchManagement\GiftExchManagement.csproj", "{5C04A45E-F863-48E7-B21B-CB1A84F5A684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftExchManagement.Client", "GiftExchManagement\GiftExchManagement.Client\GiftExchManagement.Client.csproj", "{FF2AA2CB-E6C7-4C95-8E03-48DECAC0A27E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24356F79-BB14-40DC-9ACD-27176EBB86A3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C04A45E-F863-48E7-B21B-CB1A84F5A684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C04A45E-F863-48E7-B21B-CB1A84F5A684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C04A45E-F863-48E7-B21B-CB1A84F5A684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C04A45E-F863-48E7-B21B-CB1A84F5A684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2AA2CB-E6C7-4C95-8E03-48DECAC0A27E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2AA2CB-E6C7-4C95-8E03-48DECAC0A27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2AA2CB-E6C7-4C95-8E03-48DECAC0A27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2AA2CB-E6C7-4C95-8E03-48DECAC0A27E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5CAD8C-24DC-4D1A-8A0C-C8F8D1BDAB14}
+	EndGlobalSection
+EndGlobal

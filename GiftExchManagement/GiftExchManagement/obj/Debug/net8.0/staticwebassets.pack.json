@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Nashei\\NewApp\\GiftExchManagementFinal\\GiftExchManagement\\GiftExchManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GiftExchManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GiftExchManagement.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Nashei\\NewApp\\GiftExchManagementFinal\\GiftExchManagement\\GiftExchManagement\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\Nashei\\NewApp\\GiftExchManagementFinal\\GiftExchManagement\\GiftExchManagement\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Nashei\\NewApp\\GiftExchManagementFinal\\GiftExchManagement\\GiftExchManagement\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Nashei\\NewApp\\GiftExchManagementFinal\\GiftExchManagement\\GiftExchManagement\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GiftExchManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GiftExchManagement.props",
+      "PackagePath": "build\\GiftExchManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GiftExchManagement.props",
+      "PackagePath": "buildMultiTargeting\\GiftExchManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GiftExchManagement.props",
+      "PackagePath": "buildTransitive\\GiftExchManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
